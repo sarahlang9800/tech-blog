@@ -42,7 +42,8 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ```
 
-## Walkthrough Video
+## Link to Deployed Application
+
 
 ## Link to Repo
 https://github.com/sarahlang9800/tech-blog
